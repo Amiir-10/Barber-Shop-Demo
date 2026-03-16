@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://eldoctorbarber.vercel.app
+
+# Sitemaps
+Sitemap: https://eldoctorbarber.vercel.app/sitemap.xml

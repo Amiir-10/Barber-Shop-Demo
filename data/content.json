@@ -1,0 +1,47 @@
+{
+  "shop": {
+    "name": "El Doctor Barber Shop",
+    "tagline": "Precision. Style. Identity.",
+    "phone": "+20XXXXXXXXXX",
+    "whatsapp": "+20XXXXXXXXXX",
+    "address": "Full Address Here, Cairo, Egypt",
+    "mapEmbedUrl": "",
+    "hours": {
+      "weekdays": "Mon-Sat: 10am-11pm",
+      "weekend": "Sun: 12pm-9pm"
+    },
+    "facebook": "https://www.facebook.com/p/El-Doctor-Barber-shop-100089560577635/",
+    "instagram": "https://www.instagram.com/eldoctor_barbershop"
+  },
+  "hero": {
+    "headline": "Precision. Style. Identity.",
+    "subheadline": "Cairo's Premier Barbershop Experience",
+    "backgroundImage": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1920&q=80",
+    "ctaPrimary": "Book on WhatsApp",
+    "ctaSecondary": "View Services"
+  },
+  "about": {
+    "headline": "Our Story",
+    "text": "El Doctor is not just a barber -- it is a destination. Every cut is a statement, every visit an experience. Founded in Cairo, we blend traditional craftsmanship with modern style to deliver precision grooming at its finest.",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800&q=80"
+  },
+  "services": [
+    { "name": "Haircut", "price": "150 EGP", "duration": "30 min", "icon": "scissors" },
+    { "name": "Beard Trim", "price": "80 EGP", "duration": "20 min", "icon": "razor" },
+    { "name": "Haircut + Beard", "price": "200 EGP", "duration": "45 min", "icon": "star" },
+    { "name": "Kids Haircut", "price": "100 EGP", "duration": "20 min", "icon": "smile" },
+    { "name": "Hair Wash & Style", "price": "120 EGP", "duration": "30 min", "icon": "droplet" }
+  ],
+  "gallery": [
+    { "src": "/images/gallery-1.jpg", "alt": "Fade haircut" },
+    { "src": "/images/gallery-2.jpg", "alt": "Beard grooming" },
+    { "src": "/images/gallery-3.jpg", "alt": "Classic cut" },
+    { "src": "/images/gallery-4.jpg", "alt": "Shop interior" },
+    { "src": "/images/gallery-5.jpg", "alt": "Styling session" },
+    { "src": "/images/gallery-6.jpg", "alt": "Premium finish" }
+  ],
+  "booking": {
+    "headline": "Ready for Your Next Cut?",
+    "subtext": "Message us on WhatsApp and we'll sort out a time that works for you."
+  }
+}
